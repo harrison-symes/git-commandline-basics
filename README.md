@@ -4,7 +4,7 @@
 - Helpful for Sprint 1, task 1.2
 
 ### Make a new repo
-  ![New Repository](images/New Repo)
+  ![New Repository](images/NewRepo.png)
   * On github, navigate to your main page
   * Make sure you see your username/image on the top left dropdown (refer to image)
   * Click the green button on the bottom right (refer to image) to create a new Repository
