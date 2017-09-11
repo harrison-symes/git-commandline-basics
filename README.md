@@ -3,7 +3,13 @@
 - By Harrison Symes for EDA phase 0 students
 - Helpful for Sprint 1, task 1.2
 
-### Make a new repo
+#### Links
+ - [> Making a Repo](#make-a-new-repository)
+ - [> Cloning](#cloning-a-repository)
+ - [> Making a File](#let's-make-a-file)
+ - [> Pushing to github](#pushing-to-github)
+
+### Make a new repository
   ![New Repository](images/NewRepo.png)
   * On github, navigate to your main page
   * Make sure you see your username/image on the top left dropdown (refer to image)
@@ -16,6 +22,7 @@
   ![Empty Repository](images/EmptyRepo.png)
   * You should see something like the image above
   * This means your repo has been created, but it has nothing inside it. It still exists though! Copy that url in the 'quick setup' section, and now we are gonna clone your empty repo dropdown
+  ---
 
 ### Cloning a Repository
   ![Clone Repository](images/CloneRepo.png)
@@ -23,14 +30,18 @@
   * Then run the command `git clone GIT_URL_HERE` to clone down your repo.
   * If you run the `ls` command you should see an empty folder with the same name as the repository that you just created (like 'sprint-1')
 
-### Let's make a file!
+---
+
+### Let's make a file
   * navigate to your new directory with `cd REPO_NAME_HERE`
   * run the command `touch NEW_FILE_NAME` to create a new file within your current working directory
   * Create a file with the `.md` extension to make a snazzy readme file (similar to this one you are reading)
   ![New File](images/NewFIle.png)
   * The file is empty, but it does exists, so let's push it up to github, as our github repo is still empty, `IT DOES NOT KNOW ABOUT OUR NEW FILE YET!`
 
-### Adding, Commiting and Pushing to github
+---
+
+### Pushing to github
   #### Add:
   * To push this new file up to github, we first need to `stage` our changes. We do this by running `git add FILE_NAME_HERE`, or alternatively, `git add .` will stage all of our new files / file changes
   * You can view the files that havent / have been staged by running `git status`, where the red file names are files that are changed but havent been stages, and green are changes that HAVE be staged
@@ -56,6 +67,8 @@
   ![Github Pushed](images/GithubPushed.png)
   * We can see our commit message is displayed on the line where our new file exists, between the file name and the 'last commit time'
   * Our file is still empty though, so in the next walkthrough, we will look at editing a file in atom!
+
+  ---
 
 ### Thanks for reading, hope this was helpful for you!
 #### If something wasn't clear enough for you, or you have other general feedback, send me a slack message @harrison_eda
