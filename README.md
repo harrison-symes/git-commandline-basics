@@ -8,6 +8,9 @@
  - [> Cloning](#cloning-a-repository)
  - [> Making a File](#making-a-file)
  - [> Pushing to github](#pushing-to-github)
+  - [> Add](#add)
+  - [> Commit](#commit)
+  - [> Push](#push)
 
 ### Make a new repository
   ![New Repository](images/NewRepo.png)
