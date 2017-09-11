@@ -4,13 +4,13 @@
 - Helpful for Sprint 1, task 1.2
 
 #### Links
- - [> Making a Repo](#make-a-new-repository)
- - [> Cloning](#cloning-a-repository)
- - [> Making a File](#making-a-file)
- - [> Pushing to github](#pushing-to-github)
-  - [> Add](#add)
-  - [> Commit](#commit)
-  - [> Push](#push)
+ - [Making a Repo](#make-a-new-repository)
+ - [Cloning](#cloning-a-repository)
+ - [Making a File](#making-a-file)
+ - [Pushing to github](#pushing-to-github)
+    - [Add](#add)
+    - [Commit](#commit)
+    - [Push](#push)
 
 ### Make a new repository
   ![New Repository](images/NewRepo.png)
