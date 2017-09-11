@@ -6,7 +6,7 @@
 #### Links
  - [> Making a Repo](#make-a-new-repository)
  - [> Cloning](#cloning-a-repository)
- - [> Making a File](#let's-make-a-file)
+ - [> Making a File](#making-a-file)
  - [> Pushing to github](#pushing-to-github)
 
 ### Make a new repository
@@ -32,7 +32,7 @@
 
 ---
 
-### Let's make a file
+### Making a file
   * navigate to your new directory with `cd REPO_NAME_HERE`
   * run the command `touch NEW_FILE_NAME` to create a new file within your current working directory
   * Create a file with the `.md` extension to make a snazzy readme file (similar to this one you are reading)
